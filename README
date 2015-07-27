@@ -1,0 +1,29 @@
+This project tackles the following problems:
+
+1. Write a program that identifies sentence boundaries and tokenizes the text in the file “ nlp_data.txt ” into words. It should correctly process all symbols, including punctuation and whitespace. Every word must fall into a sentence. Create data structures that efficiently express the data you have processed. When your program runs it should output an XML representation of your Java object model.
+
+2. Modify your program from #1 to add rudimentary recognition of proper nouns (“named entities”) in the input, and print a list of recognized named entities when it runs. The list of named entities is in the file “ NER.txt ”. Enhance your data structures and output schema to store information about which portions of the text represent named entities.
+
+3. Modify your program from #2 to use “ nlp_data.zip ” as its input. Use a thread pool to parallelize the processing of the text files contained in the zip. Aggregate the results and modify the output schema accordingly.
+
+The first release handles the first exercise.
+
+NOTE: This code does not include any unit tests.
+
+The code consists of three classes:
+NLP2XML.java  Parser.java  Tokenizer.java
+
+The code compiles using Eclipse Kepler without any outside libraries, except:
+java.io.*
+java.util.*
+javax.xml.*
+org.w3c.dom.*
+
+The main function is in NLP2XML.java
+It takes one required input text file name and one optional output file name
+If the output file name is not there, the output goes to stdout.
+
+In Eclipse, calling NLP2XML resources/nlp_data.txt  resources/nlp_data.xml
+will read the text and store the XML in nlp_data.xml
+
+

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document>
+    <Paragraph>
+        <Sentence>
+            <Word text="The"/>
+            <Word text="term"/>
+            <DoubleQuotes>
+                <Word text="First"/>
+                <Word text="World"/>
+                <Word text="War"/>
+            </DoubleQuotes>
+            <Word text="was"/>
+            <Word text="first"/>
+            <Word text="used"/>
+            <Word text="in"/>
+            <Word text="September"/>
+            <Word text="1914"/>
+            <Word text="by"/>
+            <Word text="the"/>
+            <Word text="German"/>
+            <Word text="philosopher"/>
+            <Word text="Ernst"/>
+            <Word text="Haeckel"/>
+            <Punctuation type="Comma"/>
+            <Word text="who"/>
+            <Word text="claimed"/>
+            <Word text="that"/>
+            <DoubleQuotes>
+                <Word text="there"/>
+                <Word text="is"/>
+                <Word text="no"/>
+                <Word text="doubt"/>
+                <Word text="that"/>
+                <Word text="the"/>
+                <Word text="course"/>
+                <Word text="and"/>
+                <Word text="character"/>
+                <Word text="of"/>
+                <Word text="the"/>
+                <Word text="feared"/>
+                <SingleQuote>
+                    <Word text="European"/>
+                    <Word text="War"/>
+                </SingleQuote>
+                <Punctuation type="Ellipses"/>
+                <Word text="will"/>
+                <Word text="become"/>
+                <Word text="the"/>
+                <Word text="first"/>
+                <Word text="world"/>
+                <Word text="war"/>
+                <Word text="in"/>
+                <Word text="the"/>
+                <Word text="full"/>
+                <Word text="sense"/>
+                <Word text="of"/>
+                <Word text="the"/>
+                <Word text="word"/>
+            </DoubleQuotes>
+            <Punctuation type="Period"/>
+        </Sentence>
+    </Paragraph>
+    <Paragraph>
+        <Sentence>
+            <Word text="Why"/>
+            <Word text="did"/>
+            <Word text="the"/>
+            <Word text="war"/>
+            <Word text="begin"/>
+            <Punctuation type="QuestionMark"/>
+        </Sentence>
+        <Sentence>
+            <Word text="The"/>
+            <Word text="immediate"/>
+            <Word text="trigger"/>
+            <Word text="for"/>
+            <Word text="war"/>
+            <Word text="was"/>
+            <Word text="the"/>
+            <Word text="28"/>
+            <Word text="June"/>
+            <Word text="1914"/>
+            <Word text="assassination"/>
+            <Word text="of"/>
+            <Word text="Archduke"/>
+            <Word text="Franz"/>
+            <Word text="Ferdinand"/>
+            <Word text="of"/>
+            <Word text="Austria"/>
+            <Punctuation type="Comma"/>
+            <Word text="heir"/>
+            <Word text="to"/>
+            <Word text="the"/>
+            <Word text="throne"/>
+            <Word text="of"/>
+            <Word text="Austria-Hungary"/>
+            <Punctuation type="Comma"/>
+            <Word text="by"/>
+            <Word text="Yugoslav"/>
+            <Word text="nationalist"/>
+            <Word text="Gavrilo"/>
+            <Word text="Princip"/>
+            <OpenParenthesis>
+                <Word text="19"/>
+                <Word text="years"/>
+                <Word text="old"/>
+                <Word text="at"/>
+                <Word text="the"/>
+                <Word text="time"/>
+            </OpenParenthesis>
+            <Word text="in"/>
+            <Word text="Sarajevo"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="This"/>
+            <Word text="set"/>
+            <Word text="off"/>
+            <Word text="a"/>
+            <Word text="diplomatic"/>
+            <Word text="crisis"/>
+            <Word text="when"/>
+            <Word text="Austria-Hungary"/>
+            <Word text="delivered"/>
+            <Word text="an"/>
+            <Word text="ultimatum"/>
+            <Word text="to"/>
+            <Word text="the"/>
+            <Word text="Kingdom"/>
+            <Word text="of"/>
+            <Word text="Serbia"/>
+            <Punctuation type="Comma"/>
+            <Word text="and"/>
+            <Word text="entangled"/>
+            <Word text="international"/>
+            <Word text="alliances"/>
+            <Word text="formed"/>
+            <Word text="over"/>
+            <Word text="the"/>
+            <Word text="previous"/>
+            <Word text="decades"/>
+            <Word text="were"/>
+            <Word text="invoked"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="Within"/>
+            <Word text="weeks"/>
+            <Punctuation type="Comma"/>
+            <Word text="the"/>
+            <Word text="major"/>
+            <Word text="powers"/>
+            <Word text="were"/>
+            <Word text="at"/>
+            <Word text="war"/>
+            <Word text="and"/>
+            <Word text="the"/>
+            <Word text="conflict"/>
+            <Word text="soon"/>
+            <Word text="spread"/>
+            <Word text="around"/>
+            <Word text="the"/>
+            <Word text="world"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+    </Paragraph>
+    <Paragraph>
+        <Sentence/>
+    </Paragraph>
+</Document>
