@@ -42,8 +42,7 @@
                 <Word text="will"/>
                 <Word text="become"/>
                 <Word text="the"/>
-                <Word NER=".162" text="first"/>
-                <Word text="world"/>
+                <Word NER=".162" text="first world"/>
                 <Word text="war"/>
                 <Word text="in"/>
                 <Word text="the"/>
@@ -73,15 +72,14 @@
             <Word text="was"/>
             <Word text="the"/>
             <Word text="28"/>
-            <Word text="June"/>
+            <Word NER=".150" text="June"/>
             <Word text="1914"/>
             <Word NER=".252" text="assassination"/>
             <Word text="of"/>
             <Word NER=".324" text="Archduke Franz Ferdinand"/>
             <Word text="of"/>
-            <Word NER=".270" text="Austria"/>
+            <Word NER=".270" text="Austria heir"/>
             <Punctuation type="Comma"/>
-            <Word text="heir"/>
             <Word text="to"/>
             <Word text="the"/>
             <Word NER=".216" text="throne"/>
@@ -96,7 +94,7 @@
                 <Word text="old"/>
                 <Word text="at"/>
                 <Word text="the"/>
-                <Word text="time"/>
+                <Word NER=".150" text="time"/>
             </OpenParenthesis>
             <Word text="in"/>
             <Word NER=".324" text="Sarajevo"/>
@@ -107,8 +105,7 @@
             <Word text="set"/>
             <Word text="off"/>
             <Word text="a"/>
-            <Word NER=".378" text="diplomatic"/>
-            <Word text="crisis"/>
+            <Word NER=".378" text="diplomatic crisis"/>
             <Word text="when"/>
             <Word NER=".378" text="Austria-Hungary delivered"/>
             <Word text="an"/>

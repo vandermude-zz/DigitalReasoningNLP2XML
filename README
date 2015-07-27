@@ -6,12 +6,13 @@ This project tackles the following problems:
 
 3. Modify your program from #2 to use “ nlp_data.zip ” as its input. Use a thread pool to parallelize the processing of the text files contained in the zip. Aggregate the results and modify the output schema accordingly.
 
-The first release handles the first exercise.
+The second release handles the second exercise.
 
 NOTE: This code does not include any unit tests.
 
 The code consists of three classes:
-NLP2XML.java  Parser.java  Tokenizer.java
+NamedEntityRecognizer.java  NLP2XMLNER.java  Tokenizer.java
+NLP2XML.java                Parser.java
 
 The code compiles using Eclipse Kepler without any outside libraries, except:
 java.io.*
@@ -19,11 +20,17 @@ java.util.*
 javax.xml.*
 org.w3c.dom.*
 
-The main function is in NLP2XML.java
-It takes one required input text file name and one optional output file name
-If the output file name is not there, the output goes to stdout.
+The main function is now in NLP2XMLNER.java
+It takes one required input text file name and two optional output file names and an optional Part Of Speech dictionary
+If the output file names are not there, the output goes to stdout.
+If the Part Of Speech Dictionary is not given, it is not used.
 
-In Eclipse, calling NLP2XML resources/nlp_data.txt  resources/nlp_data.xml
-will read the text and store the XML in nlp_data.xml
+In Eclipse, calling
+NLP2XMLNER resources/nlp_data.txt  resources/nlp_data.xml  resources/nlp_data.ner
+will read the text and store the XML in nlp_data.xml and the Named Entities in nlp_data.ner
 
+Calling
+NLP2XMLNER resources/nlp_data.txt -p resources/mobyposi.txt resources/nlp_data.pos.xml  resources/nlp_data.pos.ner
+will read the text and store the XML in nlp_data.pos.xml and the Named Entities in nlp_data.pos.ner
+The outputs will differ because tje Part Of Speech dictionary was used.
 
