@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document>
+    <Paragraph>
+        <Sentence>
+            <Word text="Sun"/>
+            <Word NER=".378" text="Microsystems Inc"/>
+            <Punctuation type="Comma"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="was"/>
+            <Word text="a"/>
+            <Word NER=".270" text="company"/>
+            <Word text="that"/>
+            <Word text="sold"/>
+            <Word NER=".252" text="computers computer components computer software"/>
+            <Punctuation type="Comma"/>
+            <Punctuation type="Comma"/>
+            <Punctuation type="Comma"/>
+            <Word text="and"/>
+            <Word NER=".252" text="information technology services"/>
+            <Word text="and"/>
+            <Word text="that"/>
+            <Word NER=".180" text="created"/>
+            <Word text="the"/>
+            <Word NER=".162" text="Java programming language"/>
+            <Word text="and"/>
+            <Word text="the"/>
+            <Word NER=".405" text="Network"/>
+            <Word text="File"/>
+            <Word NER=".216" text="System"/>
+            <OpenParenthesis>
+                <Word text="NFS"/>
+            </OpenParenthesis>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="Sun"/>
+            <Word NER=".252" text="significantly evolved several"/>
+            <Word text="key"/>
+            <Word NER=".252" text="computing technologies"/>
+            <Punctuation type="Comma"/>
+            <Word text="among"/>
+            <Word text="them"/>
+            <Word text="Unix"/>
+            <Punctuation type="Comma"/>
+            <Word text="RISC"/>
+            <Word NER=".252" text="processors"/>
+            <Punctuation type="Comma"/>
+            <Word text="thin"/>
+            <Word NER=".150" text="client computing"/>
+            <Punctuation type="Comma"/>
+            <Word text="and"/>
+            <Word NER=".252" text="virtualized computing"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="Sun"/>
+            <Word text="was"/>
+            <Word NER=".180" text="founded"/>
+            <Word text="on"/>
+            <Word NER=".324" text="February"/>
+            <Word text="24"/>
+            <Punctuation type="Comma"/>
+            <Word text="1982"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+    </Paragraph>
+    <Paragraph>
+        <Sentence>
+            <Word NER=".150" text="On January"/>
+            <Word text="27"/>
+            <Punctuation type="Comma"/>
+            <Word text="2010"/>
+            <Punctuation type="Comma"/>
+            <Word text="Sun"/>
+            <Word text="was"/>
+            <Word NER=".216" text="acquired"/>
+            <Word text="by"/>
+            <Word NER=".216" text="Oracle Corporation"/>
+            <Word text="for"/>
+            <Word NER=".150" text="US"/>
+            <Punctuation type="Dollar"/>
+            <Word text="7"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="4"/>
+            <Word NER=".180" text="billion"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="The"/>
+            <Word NER=".378" text="following month"/>
+            <Punctuation type="Comma"/>
+            <Word text="Sun"/>
+            <Word text="was"/>
+            <Word text="merged"/>
+            <Word text="with"/>
+            <Word NER=".216" text="Oracle USA Inc"/>
+            <Punctuation type="Comma"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="to"/>
+            <Word text="become"/>
+            <Word NER=".216" text="Oracle America Inc"/>
+            <Punctuation type="Comma"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence/>
+    </Paragraph>
+</Document>

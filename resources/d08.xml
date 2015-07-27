@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document>
+    <Paragraph>
+        <Sentence>
+            <Word NER=".216" text="Apollo"/>
+            <Word text="11"/>
+            <Word text="was"/>
+            <Word text="the"/>
+            <Word NER=".378" text="spaceflight"/>
+            <Word text="that"/>
+            <Word text="landed"/>
+            <Word text="the"/>
+            <Word NER=".162" text="first"/>
+            <Word text="humans"/>
+            <Word text="on"/>
+            <Word text="the"/>
+            <Word NER=".162" text="Moon Americans Neil Armstrong"/>
+            <Punctuation type="Comma"/>
+            <Word text="and"/>
+            <Word NER=".150" text="Buzz Aldrin"/>
+            <Punctuation type="Comma"/>
+            <Word text="on"/>
+            <Word NER=".150" text="July"/>
+            <Word text="20"/>
+            <Punctuation type="Comma"/>
+            <Word text="1969"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".378" text="Armstrong"/>
+            <Word text="became"/>
+            <Word text="the"/>
+            <Word NER=".162" text="first"/>
+            <Word text="to"/>
+            <Word text="step"/>
+            <Word text="onto"/>
+            <Word text="the"/>
+            <Word NER=".162" text="lunar surface"/>
+            <Word text="six"/>
+            <Word text="hours"/>
+            <Word text="later"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".378" text="Armstrong"/>
+            <Word text="spent"/>
+            <Word text="about"/>
+            <Word text="two"/>
+            <Word text="and"/>
+            <Word text="a"/>
+            <Word text="half"/>
+            <Word text="hours"/>
+            <Word NER=".180" text="outside"/>
+            <Word text="the"/>
+            <Word NER=".378" text="spacecraft Aldrin slightly"/>
+            <Punctuation type="Comma"/>
+            <Word text="less"/>
+            <Punctuation type="Comma"/>
+            <Word text="and"/>
+            <Word NER=".216" text="together"/>
+            <Word text="they"/>
+            <Word NER=".252" text="collected"/>
+            <Word text="47"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="5"/>
+            <Word text="pounds"/>
+            <OpenParenthesis>
+                <Word text="21"/>
+                <Punctuation type="Period"/>
+            </OpenParenthesis>
+        </Sentence>
+        <Sentence>
+            <Word text="5"/>
+            <Word NER=".150" text="kg"/>
+            <Word text="of"/>
+            <Word text="lunar"/>
+            <Word NER=".216" text="material"/>
+            <Word text="for"/>
+            <Word text="return"/>
+            <Word text="to"/>
+            <Word NER=".162" text="Earth"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="The"/>
+            <Word NER=".162" text="third member"/>
+            <Word text="of"/>
+            <Word text="the"/>
+            <Word NER=".270" text="mission Michael Collins piloted"/>
+            <Punctuation type="Comma"/>
+            <Punctuation type="Comma"/>
+            <Word text="the"/>
+            <Word NER=".270" text="command spacecraft"/>
+            <Word text="alone"/>
+            <Word text="in"/>
+            <Word text="lunar"/>
+            <Word text="orbit"/>
+            <Word text="until"/>
+            <Word NER=".378" text="Armstrong"/>
+            <Word text="and"/>
+            <Word NER=".216" text="Aldrin returned"/>
+            <Word text="to"/>
+            <Word text="it"/>
+            <Word text="just"/>
+            <Word text="under"/>
+            <Word text="a"/>
+            <Word NER=".150" text="day"/>
+            <Word text="later"/>
+            <Word text="for"/>
+            <Word text="the"/>
+            <Word text="trip"/>
+            <Word text="back"/>
+            <Word text="to"/>
+            <Word NER=".162" text="Earth"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+    </Paragraph>
+    <Paragraph>
+        <Sentence/>
+    </Paragraph>
+</Document>

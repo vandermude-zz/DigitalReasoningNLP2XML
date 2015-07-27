@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document>
+    <Paragraph>
+        <Sentence>
+            <Word NER=".378" text="Horseshoe"/>
+            <Word text="crabs"/>
+            <Word text="are"/>
+            <Word text="marine"/>
+            <Word NER=".252" text="arthropods"/>
+            <Word text="that"/>
+            <Word text="live"/>
+            <Word NER=".252" text="primarily"/>
+            <Word text="in"/>
+            <Word text="and"/>
+            <Word text="around"/>
+            <Word NER=".180" text="shallow ocean"/>
+            <Word text="waters"/>
+            <Word text="on"/>
+            <Word text="soft"/>
+            <Word text="sandy"/>
+            <Word text="or"/>
+            <Word text="muddy"/>
+            <Word NER=".180" text="bottoms"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="They"/>
+            <Word NER=".252" text="occasionally"/>
+            <Word text="come"/>
+            <Word text="onto"/>
+            <Word text="shore"/>
+            <Word text="to"/>
+            <Word text="mate"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="They"/>
+            <Word text="are"/>
+            <Word NER=".216" text="commonly"/>
+            <Word text="used"/>
+            <Word text="as"/>
+            <Word text="bait"/>
+            <Word text="and"/>
+            <Word text="in"/>
+            <Word NER=".252" text="fertilizer"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".150" text="In"/>
+            <Word text="recent"/>
+            <Word text="years"/>
+            <Punctuation type="Comma"/>
+            <Word text="a"/>
+            <Word NER=".270" text="decline"/>
+            <Word text="in"/>
+            <Word text="the"/>
+            <Word NER=".378" text="population"/>
+            <Word text="has"/>
+            <Word NER=".216" text="occurred"/>
+            <Word text="as"/>
+            <Word text="a"/>
+            <Word NER=".378" text="consequence"/>
+            <Word text="of"/>
+            <Word NER=".180" text="coastal habitat destruction"/>
+            <Word text="in"/>
+            <Word NER=".162" text="Japan"/>
+            <Word text="and"/>
+            <Word NER=".252" text="overharvesting"/>
+            <Word text="along"/>
+            <Word text="the"/>
+            <Word text="east"/>
+            <Word text="coast"/>
+            <Word text="of"/>
+            <Word NER=".162" text="North America"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+    </Paragraph>
+    <Paragraph>
+        <Sentence>
+            <Word NER=".270" text="Because"/>
+            <Word text="of"/>
+            <Word text="their"/>
+            <Word NER=".150" text="origin"/>
+            <Word text="450"/>
+            <Word NER=".180" text="million"/>
+            <Word text="years"/>
+            <Word text="ago"/>
+            <OpenParenthesis>
+                <Word NER=".150" text="Mya"/>
+            </OpenParenthesis>
+            <Punctuation type="Comma"/>
+            <Word NER=".252" text="horseshoe"/>
+            <Word text="crabs"/>
+            <Word text="are"/>
+            <Word NER=".252" text="considered"/>
+            <Word text="living"/>
+            <Word NER=".180" text="fossils"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".378" text="Horseshoe"/>
+            <Word text="crabs"/>
+            <Word NER=".216" text="resemble crustaceans"/>
+            <Punctuation type="Comma"/>
+            <Word text="but"/>
+            <Word text="belong"/>
+            <Word text="to"/>
+            <Word text="a"/>
+            <Word NER=".324" text="separate subphylum"/>
+            <Punctuation type="Comma"/>
+            <Word text="and"/>
+            <Word text="are"/>
+            <Word NER=".180" text="closely related"/>
+            <Word text="to"/>
+            <Word NER=".252" text="arachnids"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="The"/>
+            <Word NER=".324" text="earliest horseshoe"/>
+            <Word text="crab"/>
+            <Word NER=".180" text="fossils"/>
+            <Word text="are"/>
+            <Word text="found"/>
+            <Word text="in"/>
+            <Word NER=".150" text="strata"/>
+            <Word text="from"/>
+            <Word text="the"/>
+            <Word text="late"/>
+            <Word NER=".378" text="Ordovician period roughly"/>
+            <Punctuation type="Comma"/>
+            <Word text="450"/>
+            <Word NER=".150" text="Mya"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence/>
+    </Paragraph>
+</Document>

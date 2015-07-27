@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document>
+    <Paragraph>
+        <Sentence>
+            <Word text="The"/>
+            <Word NER=".324" text="Apollo spacecraft"/>
+            <Word text="had"/>
+            <Word text="three"/>
+            <Word text="parts"/>
+            <Punctuation type="Colon"/>
+            <Word text="a"/>
+            <Word NER=".405" text="Command Module"/>
+            <Word text="with"/>
+            <Word text="a"/>
+            <Word NER=".162" text="cabin"/>
+            <Word text="for"/>
+            <Word text="the"/>
+            <Word NER=".162" text="three astronauts"/>
+            <Punctuation type="Comma"/>
+            <Word text="and"/>
+            <Word text="the"/>
+            <Word text="only"/>
+            <Word text="part"/>
+            <Word text="that"/>
+            <Word text="landed"/>
+            <Word text="back"/>
+            <Word text="on"/>
+            <Word NER=".162" text="Earth"/>
+            <Punctuation type="Semicolon"/>
+            <Word text="a"/>
+            <Word NER=".405" text="Service Module"/>
+            <Punctuation type="Comma"/>
+            <Word text="which"/>
+            <Word NER=".252" text="supported"/>
+            <Word text="the"/>
+            <Word NER=".405" text="Command Module"/>
+            <Word text="with"/>
+            <Word NER=".252" text="propulsion electrical"/>
+            <Punctuation type="Comma"/>
+            <Word text="power"/>
+            <Punctuation type="Comma"/>
+            <Word NER=".150" text="oxygen"/>
+            <Punctuation type="Comma"/>
+            <Word text="and"/>
+            <Word text="water"/>
+            <Punctuation type="Semicolon"/>
+            <Word text="and"/>
+            <Word text="a"/>
+            <Word NER=".243" text="Lunar Module"/>
+            <Word text="for"/>
+            <Word NER=".180" text="landing"/>
+            <Word text="on"/>
+            <Word text="the"/>
+            <Word NER=".162" text="Moon"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".162" text="After being"/>
+            <Word text="sent"/>
+            <Word text="toward"/>
+            <Word text="the"/>
+            <Word NER=".162" text="Moon"/>
+            <Word text="by"/>
+            <Word text="the"/>
+            <Word NER=".324" text="Saturn"/>
+            <Word text="V's"/>
+            <Word text="upper"/>
+            <Word text="stage"/>
+            <Punctuation type="Comma"/>
+            <Word text="the"/>
+            <Word NER=".378" text="astronauts separated"/>
+            <Word text="the"/>
+            <Word NER=".378" text="spacecraft"/>
+            <Word text="from"/>
+            <Word text="it"/>
+            <Word text="and"/>
+            <Word NER=".216" text="traveled"/>
+            <Word text="for"/>
+            <Word text="three"/>
+            <Word text="days"/>
+            <Word text="until"/>
+            <Word text="they"/>
+            <Word NER=".180" text="entered"/>
+            <Word text="into"/>
+            <Word text="lunar"/>
+            <Word text="orbit"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".378" text="Armstrong"/>
+            <Word text="and"/>
+            <Word NER=".216" text="Aldrin"/>
+            <Word text="then"/>
+            <Word text="moved"/>
+            <Word text="into"/>
+            <Word text="the"/>
+            <Word NER=".243" text="Lunar Module"/>
+            <Word text="and"/>
+            <Word text="landed"/>
+            <Word text="in"/>
+            <Word text="the"/>
+            <Word text="Sea"/>
+            <Word text="of"/>
+            <Word NER=".378" text="Tranquility"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="They"/>
+            <Word text="stayed"/>
+            <Word text="a"/>
+            <Word NER=".162" text="total"/>
+            <Word text="of"/>
+            <Word text="about"/>
+            <Word text="21"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="5"/>
+            <Word text="hours"/>
+            <Word text="on"/>
+            <Word text="the"/>
+            <Word NER=".162" text="lunar surface"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".162" text="After lifting"/>
+            <Word text="off"/>
+            <Word text="in"/>
+            <Word text="the"/>
+            <Word NER=".162" text="upper"/>
+            <Word text="part"/>
+            <Word text="of"/>
+            <Word text="the"/>
+            <Word NER=".243" text="Lunar Module"/>
+            <Word text="and"/>
+            <Word NER=".252" text="rejoining Collins"/>
+            <Word text="in"/>
+            <Word text="the"/>
+            <Word NER=".405" text="Command Module"/>
+            <Punctuation type="Comma"/>
+            <Word text="they"/>
+            <Word NER=".216" text="returned"/>
+            <Word text="to"/>
+            <Word NER=".162" text="Earth"/>
+            <Word text="and"/>
+            <Word text="landed"/>
+            <Word text="in"/>
+            <Word text="the"/>
+            <Word NER=".405" text="Pacific Ocean"/>
+            <Word text="on"/>
+            <Word NER=".150" text="July"/>
+            <Word text="24"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence/>
+    </Paragraph>
+</Document>

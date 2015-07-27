@@ -6,13 +6,14 @@ This project tackles the following problems:
 
 3. Modify your program from #2 to use “ nlp_data.zip ” as its input. Use a thread pool to parallelize the processing of the text files contained in the zip. Aggregate the results and modify the output schema accordingly.
 
-The second release handles the second exercise.
+The third release handles the thrid exercise.
 
 NOTE: This code does not include any unit tests.
 
 The code consists of three classes:
-NamedEntityRecognizer.java  NLP2XMLNER.java  Tokenizer.java
-NLP2XML.java                Parser.java
+NamedEntityRecognizer.java  NLP2XMLTask.java        Tokenizer.java
+NLP2XML.java                NLP2XMLThreadPool.java
+NLP2XMLNER.java             Parser.java
 
 The code compiles using Eclipse Kepler without any outside libraries, except:
 java.io.*
@@ -20,17 +21,18 @@ java.util.*
 javax.xml.*
 org.w3c.dom.*
 
-The main function is now in NLP2XMLNER.java
+The main function is now in NLP2XMLThreadPool.java
 It takes one required input text file name and two optional output file names and an optional Part Of Speech dictionary
 If the output file names are not there, the output goes to stdout.
 If the Part Of Speech Dictionary is not given, it is not used.
 
 In Eclipse, calling
-NLP2XMLNER resources/nlp_data.txt  resources/nlp_data.xml  resources/nlp_data.ner
-will read the text and store the XML in nlp_data.xml and the Named Entities in nlp_data.ner
+NLP2XMLThreadPool resources/nlp_data.zip resources/nlp_data.agg.xml resources/nlp_data.agg.ner
+will read the zip file and for each text file DOCX.txt in the zip repository, spawn a separate task which wil read the file DOCX.txt and store the XML in DOCX.xml and the Named Entities in DOCX.ner
+After all the tasks are finished, the XML files are aggregated into resources/nlp_data.agg.xml and all the named entity files are aggregated into resources/nlp_data.agg.ner
 
 Calling
-NLP2XMLNER resources/nlp_data.txt -p resources/mobyposi.txt resources/nlp_data.pos.xml  resources/nlp_data.pos.ner
-will read the text and store the XML in nlp_data.pos.xml and the Named Entities in nlp_data.pos.ner
-The outputs will differ because tje Part Of Speech dictionary was used.
+NLP2XMLThreadPool resources/nlp_data.zip -p resources/mobyposi.txt resources/nlp_data.agg.pos.xml resources/nlp_data.agg.pos.ner
+will perform essentially the same task with two different aggregator files, overwriting the DOCX.xml and DOCX.ner files from the previous run.
+The outputs will differ because the Part Of Speech dictionary was used.
 

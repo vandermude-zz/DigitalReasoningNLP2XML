@@ -1,0 +1,32 @@
+Broyden
+Fletcher
+Goldfarb
+Shanno algorithm
+iterative method
+solving unconstrained nonlinear optimization problems
+BFGS method approximates Newton's method
+class
+hill-climbing optimization techniques
+stationary
+preferably
+continuously differentiable
+function
+For
+problems
+necessary condition
+optimality
+gradient
+Newton's method
+BFGS methods
+guaranteed
+converge
+function
+quadratic Taylor expansion
+optimum
+These methods
+first
+derivatives
+function
+However
+performance
+non-smooth optimizations

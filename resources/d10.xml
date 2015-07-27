@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document>
+    <Paragraph>
+        <Sentence>
+            <Word NER=".162" text="James Clerk Maxwell"/>
+        </Sentence>
+    </Paragraph>
+    <Paragraph/>
+    <Paragraph>
+        <Sentence>
+            <Word text="was"/>
+            <Word text="a"/>
+            <Word NER=".486" text="Scottish mathematical physicist"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="His"/>
+            <Word text="most"/>
+            <Word NER=".180" text="notable achievement"/>
+            <Word text="was"/>
+            <Word text="to"/>
+            <Word NER=".252" text="formulate"/>
+            <Word text="the"/>
+            <Word NER=".378" text="classical theory"/>
+            <Word text="of"/>
+            <Word NER=".252" text="electromagnetic radiation bringing together"/>
+            <Punctuation type="Comma"/>
+            <Word text="for"/>
+            <Word text="the"/>
+            <Word NER=".162" text="first time electricity magnetism"/>
+            <Punctuation type="Comma"/>
+            <Punctuation type="Comma"/>
+            <Word text="and"/>
+            <Word text="light"/>
+            <Word text="as"/>
+            <Word NER=".252" text="manifestations"/>
+            <Word text="of"/>
+            <Word text="the"/>
+            <Word text="same"/>
+            <Word NER=".252" text="phenomenon"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".378" text="Maxwell's equations"/>
+            <Word text="for"/>
+            <Word NER=".252" text="electromagnetism"/>
+            <Word text="have"/>
+            <Word text="been"/>
+            <Word text="called"/>
+            <Word text="the"/>
+            <DoubleQuotes>
+                <Word text="second"/>
+                <Word text="great"/>
+                <Word NER=".252" text="unification"/>
+                <Word text="in"/>
+                <Word NER=".180" text="physics"/>
+            </DoubleQuotes>
+            <Word NER=".162" text="after"/>
+            <Word text="the"/>
+            <Word NER=".162" text="first"/>
+            <Word text="one"/>
+            <Word NER=".216" text="realised"/>
+            <Word text="by"/>
+        </Sentence>
+    </Paragraph>
+    <Paragraph>
+        <Sentence>
+            <Word NER=".162" text="Isaac Maxwell demonstrated"/>
+            <Punctuation type="Ellipses"/>
+            <Word text="that"/>
+            <Word NER=".216" text="electric"/>
+            <Word text="and"/>
+            <Word NER=".216" text="magnetic"/>
+            <Word text="fields"/>
+            <Word text="travel"/>
+            <Word NER=".180" text="through"/>
+            <Word text="space"/>
+            <Word text="as"/>
+            <Word text="waves"/>
+            <Word text="moving"/>
+            <Word text="at"/>
+            <Word text="the"/>
+            <Word NER=".162" text="speed"/>
+            <Word text="of"/>
+            <Word text="light"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".270" text="Maxwell proposed"/>
+            <Word text="that"/>
+            <Word text="light"/>
+            <Word text="is"/>
+            <Word text="an"/>
+            <Word NER=".252" text="undulation"/>
+            <Word text="in"/>
+            <Word text="the"/>
+            <Word text="same"/>
+            <Word text="medium"/>
+            <Word text="that"/>
+            <Word text="is"/>
+            <Word text="the"/>
+            <Word NER=".162" text="cause"/>
+            <Word text="of"/>
+            <Word NER=".216" text="electric"/>
+            <Word text="and"/>
+            <Word NER=".216" text="magnetic phenomena"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+    </Paragraph>
+    <Paragraph/>
+    <Paragraph/>
+    <Paragraph/>
+    <Paragraph>
+        <Sentence>
+            <Word text="The"/>
+            <Word NER=".378" text="unification"/>
+            <Word text="of"/>
+            <Word text="light"/>
+            <Word text="and"/>
+            <Word NER=".252" text="electrical phenomena"/>
+            <Word text="led"/>
+            <Word text="to"/>
+            <Word text="the"/>
+            <Word NER=".378" text="prediction"/>
+            <Word text="of"/>
+            <Word text="the"/>
+            <Word NER=".378" text="existence"/>
+            <Word text="of"/>
+            <Word text="radio"/>
+            <Word text="waves"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="His"/>
+            <Word NER=".252" text="discoveries"/>
+            <Word text="helped"/>
+            <Word text="usher"/>
+            <Word text="in"/>
+            <Word text="the"/>
+            <Word NER=".150" text="era"/>
+            <Word text="of"/>
+            <Word text="modern"/>
+            <Word NER=".180" text="physics"/>
+            <Punctuation type="Comma"/>
+            <Word text="laying"/>
+            <Word text="the"/>
+            <Word NER=".378" text="foundation"/>
+            <Word text="for"/>
+            <Word text="such"/>
+            <Word text="fields"/>
+            <Word text="as"/>
+            <Word NER=".180" text="special relativity"/>
+            <Word text="and"/>
+            <Word NER=".180" text="quantum mechanics"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="His"/>
+            <Word NER=".252" text="contributions"/>
+            <Word text="to"/>
+            <Word text="the"/>
+            <Word NER=".270" text="science"/>
+            <Word text="are"/>
+            <Word NER=".252" text="considered"/>
+            <Word text="by"/>
+            <Word text="many"/>
+            <Word text="to"/>
+            <Word text="be"/>
+            <Word text="of"/>
+            <Word text="the"/>
+            <Word text="same"/>
+            <Word NER=".252" text="magnitude"/>
+            <Word text="as"/>
+            <Word text="those"/>
+            <Word text="of"/>
+            <Word NER=".162" text="Isaac Newton"/>
+            <Word text="and"/>
+            <Word NER=".216" text="Albert Einstein"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".150" text="QED"/>
+        </Sentence>
+    </Paragraph>
+    <Paragraph>
+        <Sentence/>
+    </Paragraph>
+</Document>

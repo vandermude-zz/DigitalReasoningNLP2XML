@@ -5,21 +5,25 @@
             <Word text="The"/>
             <Word text="term"/>
             <DoubleQuotes>
-                <Word NER=".162" text="First World"/>
+                <Word text="First"/>
+                <Word text="World"/>
                 <Word text="War"/>
             </DoubleQuotes>
             <Word text="was"/>
             <Word text="first"/>
             <Word text="used"/>
             <Word text="in"/>
-            <Word NER=".378" text="September"/>
+            <Word text="September"/>
             <Word text="1914"/>
             <Word text="by"/>
             <Word text="the"/>
-            <Word NER=".324" text="German philosopher Ernst Haeckel"/>
+            <Word text="German"/>
+            <Word text="philosopher"/>
+            <Word text="Ernst"/>
+            <Word text="Haeckel"/>
             <Punctuation type="Comma"/>
             <Word text="who"/>
-            <Word NER=".180" text="claimed"/>
+            <Word text="claimed"/>
             <Word text="that"/>
             <DoubleQuotes>
                 <Word text="there"/>
@@ -28,21 +32,21 @@
                 <Word text="doubt"/>
                 <Word text="that"/>
                 <Word text="the"/>
-                <Word NER=".216" text="course"/>
+                <Word text="course"/>
                 <Word text="and"/>
-                <Word NER=".252" text="character"/>
+                <Word text="character"/>
                 <Word text="of"/>
                 <Word text="the"/>
-                <Word NER=".216" text="feared"/>
+                <Word text="feared"/>
                 <SingleQuote>
-                    <Word NER=".324" text="European"/>
+                    <Word text="European"/>
                     <Word text="War"/>
                 </SingleQuote>
                 <Punctuation type="Ellipses"/>
                 <Word text="will"/>
                 <Word text="become"/>
                 <Word text="the"/>
-                <Word NER=".162" text="first"/>
+                <Word text="first"/>
                 <Word text="world"/>
                 <Word text="war"/>
                 <Word text="in"/>
@@ -67,7 +71,8 @@
         </Sentence>
         <Sentence>
             <Word text="The"/>
-            <Word NER=".378" text="immediate trigger"/>
+            <Word text="immediate"/>
+            <Word text="trigger"/>
             <Word text="for"/>
             <Word text="war"/>
             <Word text="was"/>
@@ -75,21 +80,26 @@
             <Word text="28"/>
             <Word text="June"/>
             <Word text="1914"/>
-            <Word NER=".252" text="assassination"/>
+            <Word text="assassination"/>
             <Word text="of"/>
-            <Word NER=".324" text="Archduke Franz Ferdinand"/>
+            <Word text="Archduke"/>
+            <Word text="Franz"/>
+            <Word text="Ferdinand"/>
             <Word text="of"/>
-            <Word NER=".270" text="Austria"/>
+            <Word text="Austria"/>
             <Punctuation type="Comma"/>
             <Word text="heir"/>
             <Word text="to"/>
             <Word text="the"/>
-            <Word NER=".216" text="throne"/>
+            <Word text="throne"/>
             <Word text="of"/>
-            <Word NER=".378" text="Austria-Hungary"/>
+            <Word text="Austria-Hungary"/>
             <Punctuation type="Comma"/>
             <Word text="by"/>
-            <Word NER=".324" text="Yugoslav nationalist Gavrilo Princip"/>
+            <Word text="Yugoslav"/>
+            <Word text="nationalist"/>
+            <Word text="Gavrilo"/>
+            <Word text="Princip"/>
             <OpenParenthesis>
                 <Word text="19"/>
                 <Word text="years"/>
@@ -99,7 +109,7 @@
                 <Word text="time"/>
             </OpenParenthesis>
             <Word text="in"/>
-            <Word NER=".324" text="Sarajevo"/>
+            <Word text="Sarajevo"/>
             <Punctuation type="Period"/>
         </Sentence>
         <Sentence>
@@ -107,46 +117,50 @@
             <Word text="set"/>
             <Word text="off"/>
             <Word text="a"/>
-            <Word NER=".378" text="diplomatic"/>
+            <Word text="diplomatic"/>
             <Word text="crisis"/>
             <Word text="when"/>
-            <Word NER=".378" text="Austria-Hungary delivered"/>
+            <Word text="Austria-Hungary"/>
+            <Word text="delivered"/>
             <Word text="an"/>
-            <Word NER=".252" text="ultimatum"/>
+            <Word text="ultimatum"/>
             <Word text="to"/>
             <Word text="the"/>
-            <Word NER=".405" text="Kingdom"/>
+            <Word text="Kingdom"/>
             <Word text="of"/>
-            <Word NER=".216" text="Serbia"/>
+            <Word text="Serbia"/>
             <Punctuation type="Comma"/>
             <Word text="and"/>
-            <Word NER=".252" text="entangled international alliances"/>
+            <Word text="entangled"/>
+            <Word text="international"/>
+            <Word text="alliances"/>
             <Word text="formed"/>
             <Word text="over"/>
             <Word text="the"/>
-            <Word NER=".324" text="previous decades"/>
+            <Word text="previous"/>
+            <Word text="decades"/>
             <Word text="were"/>
-            <Word NER=".180" text="invoked"/>
+            <Word text="invoked"/>
             <Punctuation type="Period"/>
         </Sentence>
         <Sentence>
-            <Word NER=".216" text="Within"/>
+            <Word text="Within"/>
             <Word text="weeks"/>
             <Punctuation type="Comma"/>
             <Word text="the"/>
-            <Word NER=".162" text="major"/>
+            <Word text="major"/>
             <Word text="powers"/>
             <Word text="were"/>
             <Word text="at"/>
             <Word text="war"/>
             <Word text="and"/>
             <Word text="the"/>
-            <Word NER=".324" text="conflict"/>
+            <Word text="conflict"/>
             <Word text="soon"/>
             <Word text="spread"/>
             <Word text="around"/>
             <Word text="the"/>
-            <Word NER=".162" text="world"/>
+            <Word text="world"/>
             <Punctuation type="Period"/>
         </Sentence>
     </Paragraph>

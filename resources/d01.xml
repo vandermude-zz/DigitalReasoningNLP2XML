@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document>
+    <Paragraph>
+        <Sentence>
+            <Word NER=".324" text="Euclid's Elements"/>
+            <Word text="has"/>
+            <Word text="been"/>
+            <Word NER=".216" text="referred"/>
+            <Word text="to"/>
+            <Word text="as"/>
+            <Word text="the"/>
+            <Word text="most"/>
+            <Word NER=".252" text="successful"/>
+            <Word text="and"/>
+            <Word NER=".252" text="influential textbook"/>
+            <Word text="ever"/>
+            <Word NER=".180" text="written"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".162" text="First"/>
+            <Word text="set"/>
+            <Word text="in"/>
+            <Word text="type"/>
+            <Word text="in"/>
+            <Word NER=".216" text="Venice"/>
+            <Word text="in"/>
+            <Word text="1482"/>
+            <Punctuation type="Comma"/>
+            <Word text="it"/>
+            <Word text="is"/>
+            <Word text="one"/>
+            <Word text="of"/>
+            <Word text="the"/>
+            <Word text="very"/>
+            <Word NER=".216" text="earliest mathematical"/>
+            <Word text="works"/>
+            <Word text="to"/>
+            <Word text="be"/>
+            <Word NER=".180" text="printed"/>
+            <Word text="after"/>
+            <Word text="the"/>
+            <Word NER=".378" text="invention"/>
+            <Word text="of"/>
+            <Word text="the"/>
+            <Word NER=".324" text="printing"/>
+            <Word text="press"/>
+            <Word text="and"/>
+            <Word text="was"/>
+            <Word NER=".252" text="estimated"/>
+            <Word text="by"/>
+            <Word NER=".150" text="Carl Benjamin Boyer"/>
+            <Word text="to"/>
+            <Word text="be"/>
+            <Word text="second"/>
+            <Word text="only"/>
+            <Word text="to"/>
+            <Word text="the"/>
+            <Word NER=".243" text="Bible"/>
+            <Word text="in"/>
+            <Word text="the"/>
+            <Word NER=".216" text="number"/>
+            <Word text="of"/>
+            <Word NER=".216" text="editions published"/>
+            <Punctuation type="Comma"/>
+            <Word text="with"/>
+            <Word text="the"/>
+            <Word NER=".216" text="number reaching"/>
+            <Word text="well"/>
+            <Word text="over"/>
+            <Word text="one"/>
+            <Word NER=".216" text="thousand"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".150" text="For centuries knowledge"/>
+            <Punctuation type="Comma"/>
+            <Word text="of"/>
+            <Word text="at"/>
+            <Word text="least"/>
+            <Word text="part"/>
+            <Word text="of"/>
+            <Word text="the"/>
+            <Word NER=".486" text="Elements"/>
+            <Word text="was"/>
+            <Word NER=".216" text="required"/>
+            <Word text="of"/>
+            <Word text="all"/>
+            <Word NER=".216" text="students"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="Not"/>
+            <Word text="until"/>
+            <Word text="the"/>
+            <Word NER=".162" text="20th century"/>
+            <Punctuation type="Comma"/>
+            <Word text="by"/>
+            <Word text="which"/>
+            <Word NER=".150" text="time"/>
+            <Word text="its"/>
+            <Word NER=".180" text="content"/>
+            <Word text="was"/>
+            <Word NER=".252" text="universally"/>
+            <Word text="taught"/>
+            <Word NER=".180" text="through"/>
+            <Word text="other"/>
+            <Word text="school"/>
+            <Word NER=".252" text="textbooks"/>
+            <Punctuation type="Comma"/>
+            <Word text="did"/>
+            <Word text="it"/>
+            <Word text="cease"/>
+            <Word text="to"/>
+            <Word text="be"/>
+            <Word NER=".252" text="considered something"/>
+            <Word text="all"/>
+            <Word NER=".216" text="educated"/>
+            <Word text="people"/>
+            <Word text="had"/>
+            <Word text="read"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence/>
+    </Paragraph>
+</Document>

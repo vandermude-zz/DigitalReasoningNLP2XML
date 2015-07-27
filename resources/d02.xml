@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document>
+    <Paragraph>
+        <Sentence>
+            <Word text="The"/>
+            <Word NER=".405" text="Broyden"/>
+            <Word text="â"/>
+            <Punctuation type="UNKNOWN:20ac"/>
+            <Punctuation type="UNKNOWN:201c"/>
+            <Word NER=".324" text="Fletcher"/>
+            <Word text="â"/>
+            <Punctuation type="UNKNOWN:20ac"/>
+            <Punctuation type="UNKNOWN:201c"/>
+            <Word NER=".324" text="Goldfarb"/>
+            <Word text="â"/>
+            <Punctuation type="UNKNOWN:20ac"/>
+            <Punctuation type="UNKNOWN:201c"/>
+            <Word NER=".216" text="Shanno algorithm"/>
+            <OpenParenthesis>
+                <Word text="BFGS"/>
+            </OpenParenthesis>
+            <Word text="is"/>
+            <Word text="an"/>
+            <Word NER=".252" text="iterative method"/>
+            <Word text="for"/>
+            <Word NER=".180" text="solving unconstrained nonlinear optimization problems"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="The"/>
+            <Word NER=".162" text="BFGS method approximates Newton's method"/>
+            <Punctuation type="Comma"/>
+            <Word text="a"/>
+            <Word NER=".162" text="class"/>
+            <Word text="of"/>
+            <Word NER=".252" text="hill-climbing optimization techniques"/>
+            <Word text="that"/>
+            <Word text="seeks"/>
+            <Word text="a"/>
+            <Word NER=".378" text="stationary"/>
+            <Word text="point"/>
+            <Word text="of"/>
+            <Word text="a"/>
+            <OpenParenthesis>
+                <Word NER=".252" text="preferably"/>
+                <Word text="twice"/>
+                <Word NER=".252" text="continuously differentiable"/>
+            </OpenParenthesis>
+            <Word NER=".324" text="function"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".150" text="For"/>
+            <Word text="such"/>
+            <Word NER=".216" text="problems"/>
+            <Punctuation type="Comma"/>
+            <Word text="a"/>
+            <Word NER=".378" text="necessary condition"/>
+            <Word text="for"/>
+            <Word NER=".252" text="optimality"/>
+            <Word text="is"/>
+            <Word text="that"/>
+            <Word text="the"/>
+            <Word NER=".324" text="gradient"/>
+            <Word text="be"/>
+            <Word text="zero"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".324" text="Newton's method"/>
+            <Word text="and"/>
+            <Word text="the"/>
+            <Word NER=".162" text="BFGS methods"/>
+            <Word text="are"/>
+            <Word text="not"/>
+            <Word NER=".252" text="guaranteed"/>
+            <Word text="to"/>
+            <Word NER=".216" text="converge"/>
+            <Word text="unless"/>
+            <Word text="the"/>
+            <Word NER=".324" text="function"/>
+            <Word text="has"/>
+            <Word text="a"/>
+            <Word NER=".378" text="quadratic Taylor expansion"/>
+            <Word text="near"/>
+            <Word text="an"/>
+            <Word NER=".180" text="optimum"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".162" text="These methods"/>
+            <Word text="use"/>
+            <Word text="both"/>
+            <Word text="the"/>
+            <Word NER=".162" text="first"/>
+            <Word text="and"/>
+            <Word text="second"/>
+            <Word NER=".252" text="derivatives"/>
+            <Word text="of"/>
+            <Word text="the"/>
+            <Word NER=".324" text="function"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".270" text="However"/>
+            <Punctuation type="Comma"/>
+            <Word text="BFGS"/>
+            <Word text="has"/>
+            <Word text="proven"/>
+            <Word text="to"/>
+            <Word text="have"/>
+            <Word text="good"/>
+            <Word NER=".252" text="performance"/>
+            <Word text="even"/>
+            <Word text="for"/>
+            <Word NER=".252" text="non-smooth optimizations"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence/>
+    </Paragraph>
+</Document>

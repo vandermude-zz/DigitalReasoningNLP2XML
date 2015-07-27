@@ -1,0 +1,1371 @@
+FILE:resources/d01.xml
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document>
+    <Paragraph>
+        <Sentence>
+            <Word NER=".324" text="Euclid's Elements"/>
+            <Word text="has"/>
+            <Word text="been"/>
+            <Word NER=".216" text="referred"/>
+            <Word text="to"/>
+            <Word text="as"/>
+            <Word text="the"/>
+            <Word text="most"/>
+            <Word NER=".252" text="successful"/>
+            <Word text="and"/>
+            <Word NER=".252" text="influential textbook"/>
+            <Word text="ever"/>
+            <Word NER=".180" text="written"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".162" text="First"/>
+            <Word text="set"/>
+            <Word text="in"/>
+            <Word text="type"/>
+            <Word text="in"/>
+            <Word NER=".216" text="Venice"/>
+            <Word text="in"/>
+            <Word text="1482"/>
+            <Punctuation type="Comma"/>
+            <Word text="it"/>
+            <Word text="is"/>
+            <Word text="one"/>
+            <Word text="of"/>
+            <Word text="the"/>
+            <Word text="very"/>
+            <Word NER=".216" text="earliest mathematical"/>
+            <Word text="works"/>
+            <Word text="to"/>
+            <Word text="be"/>
+            <Word NER=".180" text="printed"/>
+            <Word text="after"/>
+            <Word text="the"/>
+            <Word NER=".378" text="invention"/>
+            <Word text="of"/>
+            <Word text="the"/>
+            <Word NER=".324" text="printing"/>
+            <Word text="press"/>
+            <Word text="and"/>
+            <Word text="was"/>
+            <Word NER=".252" text="estimated"/>
+            <Word text="by"/>
+            <Word NER=".150" text="Carl Benjamin Boyer"/>
+            <Word text="to"/>
+            <Word text="be"/>
+            <Word text="second"/>
+            <Word text="only"/>
+            <Word text="to"/>
+            <Word text="the"/>
+            <Word NER=".243" text="Bible"/>
+            <Word text="in"/>
+            <Word text="the"/>
+            <Word NER=".216" text="number"/>
+            <Word text="of"/>
+            <Word NER=".216" text="editions published"/>
+            <Punctuation type="Comma"/>
+            <Word text="with"/>
+            <Word text="the"/>
+            <Word NER=".216" text="number reaching"/>
+            <Word text="well"/>
+            <Word text="over"/>
+            <Word text="one"/>
+            <Word NER=".216" text="thousand"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".150" text="For centuries knowledge"/>
+            <Punctuation type="Comma"/>
+            <Word text="of"/>
+            <Word text="at"/>
+            <Word text="least"/>
+            <Word text="part"/>
+            <Word text="of"/>
+            <Word text="the"/>
+            <Word NER=".486" text="Elements"/>
+            <Word text="was"/>
+            <Word NER=".216" text="required"/>
+            <Word text="of"/>
+            <Word text="all"/>
+            <Word NER=".216" text="students"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="Not"/>
+            <Word text="until"/>
+            <Word text="the"/>
+            <Word NER=".162" text="20th century"/>
+            <Punctuation type="Comma"/>
+            <Word text="by"/>
+            <Word text="which"/>
+            <Word NER=".150" text="time"/>
+            <Word text="its"/>
+            <Word NER=".180" text="content"/>
+            <Word text="was"/>
+            <Word NER=".252" text="universally"/>
+            <Word text="taught"/>
+            <Word NER=".180" text="through"/>
+            <Word text="other"/>
+            <Word text="school"/>
+            <Word NER=".252" text="textbooks"/>
+            <Punctuation type="Comma"/>
+            <Word text="did"/>
+            <Word text="it"/>
+            <Word text="cease"/>
+            <Word text="to"/>
+            <Word text="be"/>
+            <Word NER=".252" text="considered something"/>
+            <Word text="all"/>
+            <Word NER=".216" text="educated"/>
+            <Word text="people"/>
+            <Word text="had"/>
+            <Word text="read"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence/>
+    </Paragraph>
+</Document>
+FILE:resources/d02.xml
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document>
+    <Paragraph>
+        <Sentence>
+            <Word text="The"/>
+            <Word NER=".405" text="Broyden"/>
+            <Word text="â"/>
+            <Punctuation type="UNKNOWN:20ac"/>
+            <Punctuation type="UNKNOWN:201c"/>
+            <Word NER=".324" text="Fletcher"/>
+            <Word text="â"/>
+            <Punctuation type="UNKNOWN:20ac"/>
+            <Punctuation type="UNKNOWN:201c"/>
+            <Word NER=".324" text="Goldfarb"/>
+            <Word text="â"/>
+            <Punctuation type="UNKNOWN:20ac"/>
+            <Punctuation type="UNKNOWN:201c"/>
+            <Word NER=".216" text="Shanno algorithm"/>
+            <OpenParenthesis>
+                <Word text="BFGS"/>
+            </OpenParenthesis>
+            <Word text="is"/>
+            <Word text="an"/>
+            <Word NER=".252" text="iterative method"/>
+            <Word text="for"/>
+            <Word NER=".180" text="solving unconstrained nonlinear optimization problems"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="The"/>
+            <Word NER=".162" text="BFGS method approximates Newton's method"/>
+            <Punctuation type="Comma"/>
+            <Word text="a"/>
+            <Word NER=".162" text="class"/>
+            <Word text="of"/>
+            <Word NER=".252" text="hill-climbing optimization techniques"/>
+            <Word text="that"/>
+            <Word text="seeks"/>
+            <Word text="a"/>
+            <Word NER=".378" text="stationary"/>
+            <Word text="point"/>
+            <Word text="of"/>
+            <Word text="a"/>
+            <OpenParenthesis>
+                <Word NER=".252" text="preferably"/>
+                <Word text="twice"/>
+                <Word NER=".252" text="continuously differentiable"/>
+            </OpenParenthesis>
+            <Word NER=".324" text="function"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".150" text="For"/>
+            <Word text="such"/>
+            <Word NER=".216" text="problems"/>
+            <Punctuation type="Comma"/>
+            <Word text="a"/>
+            <Word NER=".378" text="necessary condition"/>
+            <Word text="for"/>
+            <Word NER=".252" text="optimality"/>
+            <Word text="is"/>
+            <Word text="that"/>
+            <Word text="the"/>
+            <Word NER=".324" text="gradient"/>
+            <Word text="be"/>
+            <Word text="zero"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".324" text="Newton's method"/>
+            <Word text="and"/>
+            <Word text="the"/>
+            <Word NER=".162" text="BFGS methods"/>
+            <Word text="are"/>
+            <Word text="not"/>
+            <Word NER=".252" text="guaranteed"/>
+            <Word text="to"/>
+            <Word NER=".216" text="converge"/>
+            <Word text="unless"/>
+            <Word text="the"/>
+            <Word NER=".324" text="function"/>
+            <Word text="has"/>
+            <Word text="a"/>
+            <Word NER=".378" text="quadratic Taylor expansion"/>
+            <Word text="near"/>
+            <Word text="an"/>
+            <Word NER=".180" text="optimum"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".162" text="These methods"/>
+            <Word text="use"/>
+            <Word text="both"/>
+            <Word text="the"/>
+            <Word NER=".162" text="first"/>
+            <Word text="and"/>
+            <Word text="second"/>
+            <Word NER=".252" text="derivatives"/>
+            <Word text="of"/>
+            <Word text="the"/>
+            <Word NER=".324" text="function"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".270" text="However"/>
+            <Punctuation type="Comma"/>
+            <Word text="BFGS"/>
+            <Word text="has"/>
+            <Word text="proven"/>
+            <Word text="to"/>
+            <Word text="have"/>
+            <Word text="good"/>
+            <Word NER=".252" text="performance"/>
+            <Word text="even"/>
+            <Word text="for"/>
+            <Word NER=".252" text="non-smooth optimizations"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence/>
+    </Paragraph>
+</Document>
+FILE:resources/d03.xml
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document>
+    <Paragraph>
+        <Sentence>
+            <Word NER=".378" text="Montgomery Castle"/>
+            <Word text="is"/>
+            <Word text="a"/>
+            <Word NER=".162" text="stone masonry"/>
+            <Word text="castle"/>
+            <Word NER=".180" text="looking"/>
+            <Word text="over"/>
+            <Word text="the"/>
+            <Word NER=".150" text="town"/>
+            <Word text="of"/>
+            <Word NER=".378" text="Montgomery"/>
+            <Word text="in"/>
+            <Word NER=".162" text="Powys Wales"/>
+            <Punctuation type="Comma"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="It"/>
+            <Word text="is"/>
+            <Word text="one"/>
+            <Word text="of"/>
+            <Word text="many"/>
+            <Word NER=".216" text="Norman castles"/>
+            <Word text="on"/>
+            <Word text="the"/>
+            <Word NER=".216" text="border between Wales"/>
+            <Word text="and"/>
+            <Word NER=".270" text="England"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="The"/>
+            <Word NER=".324" text="original"/>
+            <Word text="castle"/>
+            <Word text="was"/>
+            <Word text="built"/>
+            <Word text="at"/>
+            <Word text="the"/>
+            <Word NER=".162" text="order"/>
+            <Word text="of"/>
+            <Word NER=".162" text="Roger"/>
+            <Word text="de"/>
+            <Word NER=".378" text="Montgomery earl"/>
+            <Punctuation type="Comma"/>
+            <Word text="of"/>
+            <Word NER=".378" text="Shrewsbury sometime between"/>
+            <Word text="1071"/>
+            <Word text="and"/>
+            <Word text="1074"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".150" text="On"/>
+            <Word text="the"/>
+            <Word NER=".378" text="rebellion"/>
+            <Word text="of"/>
+            <Word text="his"/>
+            <Word NER=".150" text="son Robert"/>
+            <Word text="of"/>
+            <Word NER=".270" text="Belleme"/>
+            <Word text="in"/>
+            <Word text="1102"/>
+            <Punctuation type="Comma"/>
+            <Word text="the"/>
+            <Word NER=".216" text="castle"/>
+            <Word text="was"/>
+            <Word text="given"/>
+            <Word text="to"/>
+            <Word NER=".270" text="Baldwin"/>
+            <Word text="de"/>
+            <Word NER=".270" text="Boulers"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".150" text="In"/>
+            <Word text="1267"/>
+            <Word NER=".378" text="Montgomery"/>
+            <Word text="was"/>
+            <Word text="the"/>
+            <Word NER=".270" text="meeting"/>
+            <Word text="place"/>
+            <Word text="for"/>
+            <Word NER=".150" text="treaty negotiations"/>
+            <Punctuation type="Comma"/>
+            <Word text="where"/>
+            <Word NER=".150" text="King Henry"/>
+            <Word text="III"/>
+            <Word NER=".180" text="granted Llywelyn ap Gruffudd"/>
+            <Word text="the"/>
+            <Word NER=".162" text="title"/>
+            <Word text="of"/>
+            <Word NER=".216" text="Prince"/>
+            <Word text="of"/>
+            <Word NER=".162" text="Wales"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".162" text="After"/>
+            <Word text="1295"/>
+            <Word text="and"/>
+            <Word text="the"/>
+            <Word NER=".162" text="final Welsh"/>
+            <Word text="War"/>
+            <Word text="of"/>
+            <Word text="the"/>
+            <Word NER=".378" text="thirteenth century"/>
+            <Word text="the"/>
+            <Word NER=".216" text="castle"/>
+            <Word text="became"/>
+            <Word text="more"/>
+            <Word text="of"/>
+            <Word text="a"/>
+            <Word NER=".324" text="military backwater"/>
+            <Word text="and"/>
+            <Word NER=".150" text="prison"/>
+            <Word text="than"/>
+            <Word text="a"/>
+            <Word NER=".162" text="front"/>
+            <Word text="line"/>
+            <Word NER=".216" text="fortress"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence/>
+    </Paragraph>
+</Document>
+FILE:resources/d04.xml
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document>
+    <Paragraph>
+        <Sentence>
+            <Word text="The"/>
+            <Word NER=".567" text="Antikythera mechanism"/>
+            <Word text="is"/>
+            <Word text="an"/>
+            <Word NER=".180" text="ancient analog computer designed"/>
+            <Word text="to"/>
+            <Word NER=".180" text="predict astronomical positions"/>
+            <Word text="and"/>
+            <Word NER=".216" text="eclipses"/>
+            <Word text="for"/>
+            <Word NER=".252" text="calendrical"/>
+            <Word text="and"/>
+            <Word NER=".252" text="astrological purposes"/>
+            <Punctuation type="Comma"/>
+            <Word text="as"/>
+            <Word text="well"/>
+            <Word text="as"/>
+            <Word text="the"/>
+            <Word NER=".216" text="cycles"/>
+            <Word text="of"/>
+            <Word NER=".270" text="Olympic Games"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+    </Paragraph>
+    <Paragraph>
+        <Sentence>
+            <Word NER=".162" text="Found"/>
+            <Word text="housed"/>
+            <Word text="in"/>
+            <Word text="a"/>
+            <Word text="340"/>
+            <Word text="Ã"/>
+            <Punctuation type="UNKNOWN:2014"/>
+            <Word text="180"/>
+            <Word text="Ã"/>
+            <Punctuation type="UNKNOWN:2014"/>
+            <Word text="90"/>
+            <Word NER=".150" text="mm"/>
+            <Word text="wooden"/>
+            <Word text="box"/>
+            <Punctuation type="Comma"/>
+            <Word text="the"/>
+            <Word NER=".216" text="device"/>
+            <Word text="is"/>
+            <Word text="a"/>
+            <Word NER=".270" text="complex clockwork mechanism composed"/>
+            <Word text="of"/>
+            <Word text="at"/>
+            <Word text="least"/>
+            <Word text="30"/>
+            <Word NER=".180" text="meshing"/>
+            <Word text="bronze"/>
+            <Word text="gears"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="Its"/>
+            <Word NER=".180" text="remains"/>
+            <Word text="were"/>
+            <Word text="found"/>
+            <Word text="as"/>
+            <Word text="82"/>
+            <Word NER=".216" text="separate fragments"/>
+            <Punctuation type="Comma"/>
+            <Word text="of"/>
+            <Word text="which"/>
+            <Word text="only"/>
+            <Word text="seven"/>
+            <Word NER=".180" text="contain"/>
+            <Word text="any"/>
+            <Word text="gears"/>
+            <Word text="or"/>
+            <Word NER=".252" text="significant inscriptions"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="The"/>
+            <Word NER=".270" text="largest"/>
+            <Word text="gear"/>
+            <Word text="is"/>
+            <Word NER=".252" text="approximately"/>
+            <Word text="140"/>
+            <Word NER=".150" text="mm"/>
+            <Word text="in"/>
+            <Word NER=".216" text="diameter"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+    </Paragraph>
+    <Paragraph>
+        <Sentence>
+            <Word text="The"/>
+            <Word NER=".324" text="artifact"/>
+            <Word text="was"/>
+            <Word NER=".252" text="recovered"/>
+            <Word text="in"/>
+            <Word text="1901"/>
+            <Word text="from"/>
+            <Word text="the"/>
+            <Word NER=".567" text="Antikythera shipwreck"/>
+            <Word text="off"/>
+            <Word text="the"/>
+            <Word NER=".243" text="Greek"/>
+            <Word text="island"/>
+            <Word text="of"/>
+            <Word NER=".378" text="Antikythera"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".324" text="Believed"/>
+            <Word text="to"/>
+            <Word text="have"/>
+            <Word text="been"/>
+            <Word NER=".216" text="designed"/>
+            <Word text="and"/>
+            <Word NER=".252" text="constructed"/>
+            <Word text="by"/>
+            <Word NER=".162" text="Greek scientists"/>
+            <Punctuation type="Comma"/>
+            <Word text="the"/>
+            <Word NER=".378" text="instrument"/>
+            <Word text="has"/>
+            <Word text="been"/>
+            <Word text="dated"/>
+            <Word text="either"/>
+            <Word NER=".180" text="between"/>
+            <Word text="150"/>
+            <Word text="to"/>
+            <Word text="100"/>
+            <Word NER=".150" text="BC"/>
+            <Word text="or"/>
+            <Punctuation type="Comma"/>
+            <Word NER=".252" text="according"/>
+            <Word text="to"/>
+            <Word text="a"/>
+            <Word text="more"/>
+            <Word text="recent"/>
+            <Word text="view"/>
+            <Punctuation type="Comma"/>
+            <Word text="at"/>
+            <Word text="205"/>
+            <Word NER=".150" text="BC"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence/>
+    </Paragraph>
+</Document>
+FILE:resources/d05.xml
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document>
+    <Paragraph>
+        <Sentence>
+            <Word NER=".378" text="Horseshoe"/>
+            <Word text="crabs"/>
+            <Word text="are"/>
+            <Word text="marine"/>
+            <Word NER=".252" text="arthropods"/>
+            <Word text="that"/>
+            <Word text="live"/>
+            <Word NER=".252" text="primarily"/>
+            <Word text="in"/>
+            <Word text="and"/>
+            <Word text="around"/>
+            <Word NER=".180" text="shallow ocean"/>
+            <Word text="waters"/>
+            <Word text="on"/>
+            <Word text="soft"/>
+            <Word text="sandy"/>
+            <Word text="or"/>
+            <Word text="muddy"/>
+            <Word NER=".180" text="bottoms"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="They"/>
+            <Word NER=".252" text="occasionally"/>
+            <Word text="come"/>
+            <Word text="onto"/>
+            <Word text="shore"/>
+            <Word text="to"/>
+            <Word text="mate"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="They"/>
+            <Word text="are"/>
+            <Word NER=".216" text="commonly"/>
+            <Word text="used"/>
+            <Word text="as"/>
+            <Word text="bait"/>
+            <Word text="and"/>
+            <Word text="in"/>
+            <Word NER=".252" text="fertilizer"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".150" text="In"/>
+            <Word text="recent"/>
+            <Word text="years"/>
+            <Punctuation type="Comma"/>
+            <Word text="a"/>
+            <Word NER=".270" text="decline"/>
+            <Word text="in"/>
+            <Word text="the"/>
+            <Word NER=".378" text="population"/>
+            <Word text="has"/>
+            <Word NER=".216" text="occurred"/>
+            <Word text="as"/>
+            <Word text="a"/>
+            <Word NER=".378" text="consequence"/>
+            <Word text="of"/>
+            <Word NER=".180" text="coastal habitat destruction"/>
+            <Word text="in"/>
+            <Word NER=".162" text="Japan"/>
+            <Word text="and"/>
+            <Word NER=".252" text="overharvesting"/>
+            <Word text="along"/>
+            <Word text="the"/>
+            <Word text="east"/>
+            <Word text="coast"/>
+            <Word text="of"/>
+            <Word NER=".162" text="North America"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+    </Paragraph>
+    <Paragraph>
+        <Sentence>
+            <Word NER=".270" text="Because"/>
+            <Word text="of"/>
+            <Word text="their"/>
+            <Word NER=".150" text="origin"/>
+            <Word text="450"/>
+            <Word NER=".180" text="million"/>
+            <Word text="years"/>
+            <Word text="ago"/>
+            <OpenParenthesis>
+                <Word NER=".150" text="Mya"/>
+            </OpenParenthesis>
+            <Punctuation type="Comma"/>
+            <Word NER=".252" text="horseshoe"/>
+            <Word text="crabs"/>
+            <Word text="are"/>
+            <Word NER=".252" text="considered"/>
+            <Word text="living"/>
+            <Word NER=".180" text="fossils"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".378" text="Horseshoe"/>
+            <Word text="crabs"/>
+            <Word NER=".216" text="resemble crustaceans"/>
+            <Punctuation type="Comma"/>
+            <Word text="but"/>
+            <Word text="belong"/>
+            <Word text="to"/>
+            <Word text="a"/>
+            <Word NER=".324" text="separate subphylum"/>
+            <Punctuation type="Comma"/>
+            <Word text="and"/>
+            <Word text="are"/>
+            <Word NER=".180" text="closely related"/>
+            <Word text="to"/>
+            <Word NER=".252" text="arachnids"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="The"/>
+            <Word NER=".324" text="earliest horseshoe"/>
+            <Word text="crab"/>
+            <Word NER=".180" text="fossils"/>
+            <Word text="are"/>
+            <Word text="found"/>
+            <Word text="in"/>
+            <Word NER=".150" text="strata"/>
+            <Word text="from"/>
+            <Word text="the"/>
+            <Word text="late"/>
+            <Word NER=".378" text="Ordovician period roughly"/>
+            <Punctuation type="Comma"/>
+            <Word text="450"/>
+            <Word NER=".150" text="Mya"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence/>
+    </Paragraph>
+</Document>
+FILE:resources/d06.xml
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document>
+    <Paragraph>
+        <Sentence>
+            <Word NER=".150" text="A differentiable manifold"/>
+            <Word text="is"/>
+            <Word text="a"/>
+            <Word text="type"/>
+            <Word text="of"/>
+            <Word NER=".216" text="manifold"/>
+            <Word text="that"/>
+            <Word text="is"/>
+            <Word NER=".180" text="locally similar"/>
+            <Word text="enough"/>
+            <Word text="to"/>
+            <Word text="a"/>
+            <Word NER=".216" text="linear"/>
+            <Word text="space"/>
+            <Word text="to"/>
+            <Word text="allow"/>
+            <Word text="one"/>
+            <Word text="to"/>
+            <Word text="do"/>
+            <Word NER=".216" text="calculus"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="Any"/>
+            <Word NER=".216" text="manifold"/>
+            <Word text="can"/>
+            <Word text="be"/>
+            <Word NER=".252" text="described"/>
+            <Word text="by"/>
+            <Word text="a"/>
+            <Word NER=".378" text="collection"/>
+            <Word text="of"/>
+            <Word text="charts"/>
+            <Punctuation type="Comma"/>
+            <Word text="also"/>
+            <Word text="known"/>
+            <Word text="as"/>
+            <Word text="an"/>
+            <Word NER=".150" text="atlas"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="One"/>
+            <Word text="may"/>
+            <Word text="then"/>
+            <Word text="apply"/>
+            <Word text="ideas"/>
+            <Word text="from"/>
+            <Word NER=".216" text="calculus"/>
+            <Word text="while"/>
+            <Word NER=".180" text="working"/>
+            <Word text="within"/>
+            <Word text="the"/>
+            <Word NER=".378" text="individual"/>
+            <Word text="charts"/>
+            <Punctuation type="Comma"/>
+            <Word text="since"/>
+            <Word text="each"/>
+            <Word text="chart"/>
+            <Word text="lies"/>
+            <Word text="within"/>
+            <Word text="a"/>
+            <Word NER=".216" text="linear"/>
+            <Word text="space"/>
+            <Word text="to"/>
+            <Word text="which"/>
+            <Word text="the"/>
+            <Word NER=".162" text="usual"/>
+            <Word text="rules"/>
+            <Word text="of"/>
+            <Word NER=".216" text="calculus"/>
+            <Word text="apply"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="If"/>
+            <Word text="the"/>
+            <Word NER=".216" text="charts"/>
+            <Word text="are"/>
+            <Word NER=".216" text="suitably compatible"/>
+            <OpenParenthesis>
+                <Word text="namely"/>
+                <Punctuation type="Comma"/>
+                <Word text="the"/>
+                <Word NER=".378" text="transition"/>
+                <Word text="from"/>
+                <Word text="one"/>
+                <Word text="chart"/>
+                <Word text="to"/>
+                <Word NER=".180" text="another"/>
+                <Word text="is"/>
+                <Word NER=".252" text="differentiable"/>
+            </OpenParenthesis>
+            <Punctuation type="Comma"/>
+            <Word text="then"/>
+            <Word NER=".252" text="computations"/>
+            <Word text="done"/>
+            <Word text="in"/>
+            <Word text="one"/>
+            <Word text="chart"/>
+            <Word text="are"/>
+            <Word text="valid"/>
+            <Word text="in"/>
+            <Word text="any"/>
+            <Word text="other"/>
+            <Word NER=".252" text="differentiable"/>
+            <Word text="chart"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence/>
+    </Paragraph>
+</Document>
+FILE:resources/d07.xml
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document>
+    <Paragraph>
+        <Sentence>
+            <Word text="Sun"/>
+            <Word NER=".378" text="Microsystems Inc"/>
+            <Punctuation type="Comma"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="was"/>
+            <Word text="a"/>
+            <Word NER=".270" text="company"/>
+            <Word text="that"/>
+            <Word text="sold"/>
+            <Word NER=".252" text="computers computer components computer software"/>
+            <Punctuation type="Comma"/>
+            <Punctuation type="Comma"/>
+            <Punctuation type="Comma"/>
+            <Word text="and"/>
+            <Word NER=".252" text="information technology services"/>
+            <Word text="and"/>
+            <Word text="that"/>
+            <Word NER=".180" text="created"/>
+            <Word text="the"/>
+            <Word NER=".162" text="Java programming language"/>
+            <Word text="and"/>
+            <Word text="the"/>
+            <Word NER=".405" text="Network"/>
+            <Word text="File"/>
+            <Word NER=".216" text="System"/>
+            <OpenParenthesis>
+                <Word text="NFS"/>
+            </OpenParenthesis>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="Sun"/>
+            <Word NER=".252" text="significantly evolved several"/>
+            <Word text="key"/>
+            <Word NER=".252" text="computing technologies"/>
+            <Punctuation type="Comma"/>
+            <Word text="among"/>
+            <Word text="them"/>
+            <Word text="Unix"/>
+            <Punctuation type="Comma"/>
+            <Word text="RISC"/>
+            <Word NER=".252" text="processors"/>
+            <Punctuation type="Comma"/>
+            <Word text="thin"/>
+            <Word NER=".150" text="client computing"/>
+            <Punctuation type="Comma"/>
+            <Word text="and"/>
+            <Word NER=".252" text="virtualized computing"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="Sun"/>
+            <Word text="was"/>
+            <Word NER=".180" text="founded"/>
+            <Word text="on"/>
+            <Word NER=".324" text="February"/>
+            <Word text="24"/>
+            <Punctuation type="Comma"/>
+            <Word text="1982"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+    </Paragraph>
+    <Paragraph>
+        <Sentence>
+            <Word NER=".150" text="On January"/>
+            <Word text="27"/>
+            <Punctuation type="Comma"/>
+            <Word text="2010"/>
+            <Punctuation type="Comma"/>
+            <Word text="Sun"/>
+            <Word text="was"/>
+            <Word NER=".216" text="acquired"/>
+            <Word text="by"/>
+            <Word NER=".216" text="Oracle Corporation"/>
+            <Word text="for"/>
+            <Word NER=".150" text="US"/>
+            <Punctuation type="Dollar"/>
+            <Word text="7"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="4"/>
+            <Word NER=".180" text="billion"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="The"/>
+            <Word NER=".378" text="following month"/>
+            <Punctuation type="Comma"/>
+            <Word text="Sun"/>
+            <Word text="was"/>
+            <Word text="merged"/>
+            <Word text="with"/>
+            <Word NER=".216" text="Oracle USA Inc"/>
+            <Punctuation type="Comma"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="to"/>
+            <Word text="become"/>
+            <Word NER=".216" text="Oracle America Inc"/>
+            <Punctuation type="Comma"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence/>
+    </Paragraph>
+</Document>
+FILE:resources/d08.xml
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document>
+    <Paragraph>
+        <Sentence>
+            <Word NER=".216" text="Apollo"/>
+            <Word text="11"/>
+            <Word text="was"/>
+            <Word text="the"/>
+            <Word NER=".378" text="spaceflight"/>
+            <Word text="that"/>
+            <Word text="landed"/>
+            <Word text="the"/>
+            <Word NER=".162" text="first"/>
+            <Word text="humans"/>
+            <Word text="on"/>
+            <Word text="the"/>
+            <Word NER=".162" text="Moon Americans Neil Armstrong"/>
+            <Punctuation type="Comma"/>
+            <Word text="and"/>
+            <Word NER=".150" text="Buzz Aldrin"/>
+            <Punctuation type="Comma"/>
+            <Word text="on"/>
+            <Word NER=".150" text="July"/>
+            <Word text="20"/>
+            <Punctuation type="Comma"/>
+            <Word text="1969"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".378" text="Armstrong"/>
+            <Word text="became"/>
+            <Word text="the"/>
+            <Word NER=".162" text="first"/>
+            <Word text="to"/>
+            <Word text="step"/>
+            <Word text="onto"/>
+            <Word text="the"/>
+            <Word NER=".162" text="lunar surface"/>
+            <Word text="six"/>
+            <Word text="hours"/>
+            <Word text="later"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".378" text="Armstrong"/>
+            <Word text="spent"/>
+            <Word text="about"/>
+            <Word text="two"/>
+            <Word text="and"/>
+            <Word text="a"/>
+            <Word text="half"/>
+            <Word text="hours"/>
+            <Word NER=".180" text="outside"/>
+            <Word text="the"/>
+            <Word NER=".378" text="spacecraft Aldrin slightly"/>
+            <Punctuation type="Comma"/>
+            <Word text="less"/>
+            <Punctuation type="Comma"/>
+            <Word text="and"/>
+            <Word NER=".216" text="together"/>
+            <Word text="they"/>
+            <Word NER=".252" text="collected"/>
+            <Word text="47"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="5"/>
+            <Word text="pounds"/>
+            <OpenParenthesis>
+                <Word text="21"/>
+                <Punctuation type="Period"/>
+            </OpenParenthesis>
+        </Sentence>
+        <Sentence>
+            <Word text="5"/>
+            <Word NER=".150" text="kg"/>
+            <Word text="of"/>
+            <Word text="lunar"/>
+            <Word NER=".216" text="material"/>
+            <Word text="for"/>
+            <Word text="return"/>
+            <Word text="to"/>
+            <Word NER=".162" text="Earth"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="The"/>
+            <Word NER=".162" text="third member"/>
+            <Word text="of"/>
+            <Word text="the"/>
+            <Word NER=".270" text="mission Michael Collins piloted"/>
+            <Punctuation type="Comma"/>
+            <Punctuation type="Comma"/>
+            <Word text="the"/>
+            <Word NER=".270" text="command spacecraft"/>
+            <Word text="alone"/>
+            <Word text="in"/>
+            <Word text="lunar"/>
+            <Word text="orbit"/>
+            <Word text="until"/>
+            <Word NER=".378" text="Armstrong"/>
+            <Word text="and"/>
+            <Word NER=".216" text="Aldrin returned"/>
+            <Word text="to"/>
+            <Word text="it"/>
+            <Word text="just"/>
+            <Word text="under"/>
+            <Word text="a"/>
+            <Word NER=".150" text="day"/>
+            <Word text="later"/>
+            <Word text="for"/>
+            <Word text="the"/>
+            <Word text="trip"/>
+            <Word text="back"/>
+            <Word text="to"/>
+            <Word NER=".162" text="Earth"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+    </Paragraph>
+    <Paragraph>
+        <Sentence/>
+    </Paragraph>
+</Document>
+FILE:resources/d09.xml
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document>
+    <Paragraph>
+        <Sentence>
+            <Word text="The"/>
+            <Word NER=".324" text="Apollo spacecraft"/>
+            <Word text="had"/>
+            <Word text="three"/>
+            <Word text="parts"/>
+            <Punctuation type="Colon"/>
+            <Word text="a"/>
+            <Word NER=".405" text="Command Module"/>
+            <Word text="with"/>
+            <Word text="a"/>
+            <Word NER=".162" text="cabin"/>
+            <Word text="for"/>
+            <Word text="the"/>
+            <Word NER=".162" text="three astronauts"/>
+            <Punctuation type="Comma"/>
+            <Word text="and"/>
+            <Word text="the"/>
+            <Word text="only"/>
+            <Word text="part"/>
+            <Word text="that"/>
+            <Word text="landed"/>
+            <Word text="back"/>
+            <Word text="on"/>
+            <Word NER=".162" text="Earth"/>
+            <Punctuation type="Semicolon"/>
+            <Word text="a"/>
+            <Word NER=".405" text="Service Module"/>
+            <Punctuation type="Comma"/>
+            <Word text="which"/>
+            <Word NER=".252" text="supported"/>
+            <Word text="the"/>
+            <Word NER=".405" text="Command Module"/>
+            <Word text="with"/>
+            <Word NER=".252" text="propulsion electrical"/>
+            <Punctuation type="Comma"/>
+            <Word text="power"/>
+            <Punctuation type="Comma"/>
+            <Word NER=".150" text="oxygen"/>
+            <Punctuation type="Comma"/>
+            <Word text="and"/>
+            <Word text="water"/>
+            <Punctuation type="Semicolon"/>
+            <Word text="and"/>
+            <Word text="a"/>
+            <Word NER=".243" text="Lunar Module"/>
+            <Word text="for"/>
+            <Word NER=".180" text="landing"/>
+            <Word text="on"/>
+            <Word text="the"/>
+            <Word NER=".162" text="Moon"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".162" text="After being"/>
+            <Word text="sent"/>
+            <Word text="toward"/>
+            <Word text="the"/>
+            <Word NER=".162" text="Moon"/>
+            <Word text="by"/>
+            <Word text="the"/>
+            <Word NER=".324" text="Saturn"/>
+            <Word text="V's"/>
+            <Word text="upper"/>
+            <Word text="stage"/>
+            <Punctuation type="Comma"/>
+            <Word text="the"/>
+            <Word NER=".378" text="astronauts separated"/>
+            <Word text="the"/>
+            <Word NER=".378" text="spacecraft"/>
+            <Word text="from"/>
+            <Word text="it"/>
+            <Word text="and"/>
+            <Word NER=".216" text="traveled"/>
+            <Word text="for"/>
+            <Word text="three"/>
+            <Word text="days"/>
+            <Word text="until"/>
+            <Word text="they"/>
+            <Word NER=".180" text="entered"/>
+            <Word text="into"/>
+            <Word text="lunar"/>
+            <Word text="orbit"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".378" text="Armstrong"/>
+            <Word text="and"/>
+            <Word NER=".216" text="Aldrin"/>
+            <Word text="then"/>
+            <Word text="moved"/>
+            <Word text="into"/>
+            <Word text="the"/>
+            <Word NER=".243" text="Lunar Module"/>
+            <Word text="and"/>
+            <Word text="landed"/>
+            <Word text="in"/>
+            <Word text="the"/>
+            <Word text="Sea"/>
+            <Word text="of"/>
+            <Word NER=".378" text="Tranquility"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="They"/>
+            <Word text="stayed"/>
+            <Word text="a"/>
+            <Word NER=".162" text="total"/>
+            <Word text="of"/>
+            <Word text="about"/>
+            <Word text="21"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="5"/>
+            <Word text="hours"/>
+            <Word text="on"/>
+            <Word text="the"/>
+            <Word NER=".162" text="lunar surface"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".162" text="After lifting"/>
+            <Word text="off"/>
+            <Word text="in"/>
+            <Word text="the"/>
+            <Word NER=".162" text="upper"/>
+            <Word text="part"/>
+            <Word text="of"/>
+            <Word text="the"/>
+            <Word NER=".243" text="Lunar Module"/>
+            <Word text="and"/>
+            <Word NER=".252" text="rejoining Collins"/>
+            <Word text="in"/>
+            <Word text="the"/>
+            <Word NER=".405" text="Command Module"/>
+            <Punctuation type="Comma"/>
+            <Word text="they"/>
+            <Word NER=".216" text="returned"/>
+            <Word text="to"/>
+            <Word NER=".162" text="Earth"/>
+            <Word text="and"/>
+            <Word text="landed"/>
+            <Word text="in"/>
+            <Word text="the"/>
+            <Word NER=".405" text="Pacific Ocean"/>
+            <Word text="on"/>
+            <Word NER=".150" text="July"/>
+            <Word text="24"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence/>
+    </Paragraph>
+</Document>
+FILE:resources/d10.xml
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Document>
+    <Paragraph>
+        <Sentence>
+            <Word NER=".162" text="James Clerk Maxwell"/>
+        </Sentence>
+    </Paragraph>
+    <Paragraph/>
+    <Paragraph>
+        <Sentence>
+            <Word text="was"/>
+            <Word text="a"/>
+            <Word NER=".486" text="Scottish mathematical physicist"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="His"/>
+            <Word text="most"/>
+            <Word NER=".180" text="notable achievement"/>
+            <Word text="was"/>
+            <Word text="to"/>
+            <Word NER=".252" text="formulate"/>
+            <Word text="the"/>
+            <Word NER=".378" text="classical theory"/>
+            <Word text="of"/>
+            <Word NER=".252" text="electromagnetic radiation bringing together"/>
+            <Punctuation type="Comma"/>
+            <Word text="for"/>
+            <Word text="the"/>
+            <Word NER=".162" text="first time electricity magnetism"/>
+            <Punctuation type="Comma"/>
+            <Punctuation type="Comma"/>
+            <Word text="and"/>
+            <Word text="light"/>
+            <Word text="as"/>
+            <Word NER=".252" text="manifestations"/>
+            <Word text="of"/>
+            <Word text="the"/>
+            <Word text="same"/>
+            <Word NER=".252" text="phenomenon"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".378" text="Maxwell's equations"/>
+            <Word text="for"/>
+            <Word NER=".252" text="electromagnetism"/>
+            <Word text="have"/>
+            <Word text="been"/>
+            <Word text="called"/>
+            <Word text="the"/>
+            <DoubleQuotes>
+                <Word text="second"/>
+                <Word text="great"/>
+                <Word NER=".252" text="unification"/>
+                <Word text="in"/>
+                <Word NER=".180" text="physics"/>
+            </DoubleQuotes>
+            <Word NER=".162" text="after"/>
+            <Word text="the"/>
+            <Word NER=".162" text="first"/>
+            <Word text="one"/>
+            <Word NER=".216" text="realised"/>
+            <Word text="by"/>
+        </Sentence>
+    </Paragraph>
+    <Paragraph>
+        <Sentence>
+            <Word NER=".162" text="Isaac Maxwell demonstrated"/>
+            <Punctuation type="Ellipses"/>
+            <Word text="that"/>
+            <Word NER=".216" text="electric"/>
+            <Word text="and"/>
+            <Word NER=".216" text="magnetic"/>
+            <Word text="fields"/>
+            <Word text="travel"/>
+            <Word NER=".180" text="through"/>
+            <Word text="space"/>
+            <Word text="as"/>
+            <Word text="waves"/>
+            <Word text="moving"/>
+            <Word text="at"/>
+            <Word text="the"/>
+            <Word NER=".162" text="speed"/>
+            <Word text="of"/>
+            <Word text="light"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".270" text="Maxwell proposed"/>
+            <Word text="that"/>
+            <Word text="light"/>
+            <Word text="is"/>
+            <Word text="an"/>
+            <Word NER=".252" text="undulation"/>
+            <Word text="in"/>
+            <Word text="the"/>
+            <Word text="same"/>
+            <Word text="medium"/>
+            <Word text="that"/>
+            <Word text="is"/>
+            <Word text="the"/>
+            <Word NER=".162" text="cause"/>
+            <Word text="of"/>
+            <Word NER=".216" text="electric"/>
+            <Word text="and"/>
+            <Word NER=".216" text="magnetic phenomena"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+    </Paragraph>
+    <Paragraph/>
+    <Paragraph/>
+    <Paragraph/>
+    <Paragraph>
+        <Sentence>
+            <Word text="The"/>
+            <Word NER=".378" text="unification"/>
+            <Word text="of"/>
+            <Word text="light"/>
+            <Word text="and"/>
+            <Word NER=".252" text="electrical phenomena"/>
+            <Word text="led"/>
+            <Word text="to"/>
+            <Word text="the"/>
+            <Word NER=".378" text="prediction"/>
+            <Word text="of"/>
+            <Word text="the"/>
+            <Word NER=".378" text="existence"/>
+            <Word text="of"/>
+            <Word text="radio"/>
+            <Word text="waves"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="His"/>
+            <Word NER=".252" text="discoveries"/>
+            <Word text="helped"/>
+            <Word text="usher"/>
+            <Word text="in"/>
+            <Word text="the"/>
+            <Word NER=".150" text="era"/>
+            <Word text="of"/>
+            <Word text="modern"/>
+            <Word NER=".180" text="physics"/>
+            <Punctuation type="Comma"/>
+            <Word text="laying"/>
+            <Word text="the"/>
+            <Word NER=".378" text="foundation"/>
+            <Word text="for"/>
+            <Word text="such"/>
+            <Word text="fields"/>
+            <Word text="as"/>
+            <Word NER=".180" text="special relativity"/>
+            <Word text="and"/>
+            <Word NER=".180" text="quantum mechanics"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word text="His"/>
+            <Word NER=".252" text="contributions"/>
+            <Word text="to"/>
+            <Word text="the"/>
+            <Word NER=".270" text="science"/>
+            <Word text="are"/>
+            <Word NER=".252" text="considered"/>
+            <Word text="by"/>
+            <Word text="many"/>
+            <Word text="to"/>
+            <Word text="be"/>
+            <Word text="of"/>
+            <Word text="the"/>
+            <Word text="same"/>
+            <Word NER=".252" text="magnitude"/>
+            <Word text="as"/>
+            <Word text="those"/>
+            <Word text="of"/>
+            <Word NER=".162" text="Isaac Newton"/>
+            <Word text="and"/>
+            <Word NER=".216" text="Albert Einstein"/>
+            <Punctuation type="Period"/>
+        </Sentence>
+        <Sentence>
+            <Word NER=".150" text="QED"/>
+        </Sentence>
+    </Paragraph>
+    <Paragraph>
+        <Sentence/>
+    </Paragraph>
+</Document>
